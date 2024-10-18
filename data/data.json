@@ -92,7 +92,7 @@
   "light": {
     "Primary": {
       "$type": "color",
-      "$value": "{yellow.500}"
+      "$value": "{yellow.200}"
     },
     "Accent": {
       "$type": "color",
